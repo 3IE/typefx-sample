@@ -18,7 +18,7 @@ $ node .build\app.js
 To test the server browse these urls :
 ```
 http://localhost:3000/home
-http://localhost:3000/user/getResponse
+http://localhost:3000/api/getResponse
 ```
 
 ## Add new controller
